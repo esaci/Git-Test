@@ -1,3 +1,5 @@
+echo "Nous sommes tous d'accord"
+echo "Nous sommes tous d'accord avec Daniel"
 echo "Nous sommes pas tous d'accord..."
 echo "...bien au contraire".
 echo "Nous sommes tous d'accord"
