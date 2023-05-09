@@ -1,1 +1,5 @@
-echo "Nous sommes pas tous d'accord"
+
+echo "Nous sommes tous d'accord"
+
+merge A Alain
+
