@@ -1,0 +1,1 @@
+echo "Nous sommes tous d'accord"
