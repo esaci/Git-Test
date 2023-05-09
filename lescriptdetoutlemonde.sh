@@ -1,1 +1,1 @@
-echo "Nous sommes tous d'accord"
+echo "Nous sommes tous d'accord que git c'est super génial et tip top pour tout gérer et faire du devops"
