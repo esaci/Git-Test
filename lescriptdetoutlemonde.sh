@@ -1,5 +1,3 @@
-
 echo "Nous sommes tous d'accord"
-
-merge A Alain
-
+echo "merge A Alain"
+echo "La modif de Nathalie"
