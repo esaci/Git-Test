@@ -1,1 +1,1 @@
-echo "Nous sommes tous d'accord"
+echo "Nous sommes pas tous d'accord"
